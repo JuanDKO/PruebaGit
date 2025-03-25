@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="592eca03-255c-4023-a916-4fbc0a8d1e58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/persona.java" afterDir="false" />
+    <list default="true" id="592eca03-255c-4023-a916-4fbc0a8d1e58" name="Changes" comment="He añadido la clase persona&#10;&#10;Añadir la clase persona con los constructores basicos y los metodos getters y setters">
+      <change beforePath="$PROJECT_DIR$/src/PruebaPersona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PruebaPersona.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.PruebaPersona.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -60,6 +61,15 @@
       <option name="presentableId" value="Default" />
       <updated>1742913049885</updated>
     </task>
+    <task id="LOCAL-00001" summary="He añadido la clase persona&#10;&#10;Añadir la clase persona con los constructores basicos y los metodos getters y setters">
+      <option name="closed" value="true" />
+      <created>1742914735838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742914735838</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +94,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="He añadido la clase persona&#10;&#10;Añadir la clase persona con los constructores basicos y los metodos getters y setters" />
+    <option name="LAST_COMMIT_MESSAGE" value="He añadido la clase persona&#10;&#10;Añadir la clase persona con los constructores basicos y los metodos getters y setters" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
